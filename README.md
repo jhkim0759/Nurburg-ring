@@ -1,7 +1,7 @@
 # Nurburg-ring
 
 # 데이터 크롤링
-
+https://fastestlaps.com/tracks/nordschleife
 # 변수간 상관관계 분석
 ![캡처](https://user-images.githubusercontent.com/77155480/112417112-3fb7ec00-8d6a-11eb-9b5b-8aa757cbc5c5.PNG)
 ![image](https://user-images.githubusercontent.com/77155480/112417447-02079300-8d6b-11eb-8d73-9680fb7d409b.png)
